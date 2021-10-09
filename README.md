@@ -1,0 +1,4 @@
+- 👋 Hi, I'm Lucas Ariel and i have 14 years old
+- 👀 I'm interested in github, git, HTML, css, JavaScript, nodejs, express, mongodb and tailwindcss
+- 🌱 I'm currently learning nodejs, express tailwindcss
+- 📫 How to reach me services.lucas.ariel270407@gmail.com
